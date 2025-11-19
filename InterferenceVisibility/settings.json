@@ -1,0 +1,15 @@
+{
+    "period":10e-9,
+    "sampling_rate":100e9,
+    "delay":1e-9,
+    "memory":4000000,
+    "channels":[2],
+    "debug":false,
+    "TEC":{
+        "port":"COM10",
+        "start":29.6,
+        "end":31.6,
+        "step":0.1,
+        "tolerance":0.005
+    }
+}
